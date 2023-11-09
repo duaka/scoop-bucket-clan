@@ -40,3 +40,13 @@ To make a new manifest contribution, please read the [Contributing
 Guide](https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md)
 and [App Manifests](https://github.com/ScoopInstaller/Scoop/wiki/App-Manifests)
 wiki page.
+
+## Manifest 列表
+
+|       | 最后更新   | 版本     | 用途         | 说明                                                         |
+| ----- | ---------- | -------- | ------------ | ------------------------------------------------------------ |
+| 7zip  | 2023-11-09 | 23.01    | 压缩，解压缩 |                                                              |
+| aria2 | 2023-11-09 | 1.36.0   | 下载工具     | 下载源转移 github -> sourceforge，速度虽慢但程序尺寸小（2.3M 左右） |
+| git   | 2023-11-09 | 2.42.0.2 | 版本控制     | 下载源转移 github -> TUNA mirror                             |
+|       |            |          |              |                                                              |
+
