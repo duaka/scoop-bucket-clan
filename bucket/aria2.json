@@ -1,18 +1,18 @@
 {
-    "version": "1.36.0-1",
+    "version": "1.37.0-1",
     "description": "Lightweight multi-protocol & multi-source command-line download utility",
     "homepage": "https://aria2.github.io/",
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://master.dl.sourceforge.net/project/aria2.mirror/release-1.36.0/aria2-1.36.0-win-64bit-build1.zip?viasf=1",
-            "hash": "sha1:5bdaf191639816590bba08d4b6da306fb3c4c905",
-            "extract_dir": "aria2-1.36.0-win-64bit-build1"
+            "url": "https://master.dl.sourceforge.net/project/aria2.mirror/release-1.37.0/aria2-1.37.0-win-64bit-build1.zip?viasf=1",
+            "hash": "sha1:e5d37191fb59f9f36d486914067997d6f319b240",
+            "extract_dir": "aria2-1.37.0-win-64bit-build1"
         },
         "32bit": {
-            "url": "https://master.dl.sourceforge.net/project/aria2.mirror/release-1.36.0/aria2-1.36.0-win-32bit-build1.zip?viasf=1",
-            "hash": "sha1:555136f3c1128b95b69584ed9d5da4dd2caa7c35",
-            "extract_dir": "aria2-1.36.0-win-32bit-build1"
+            "url": "https://master.dl.sourceforge.net/project/aria2.mirror/release-1.37.0/aria2-1.37.0-win-32bit-build1.zip?viasf=1",
+            "hash": "sha1:510005b07cbcb5c94d5b4b61aea6139d579203de",
+            "extract_dir": "aria2-1.37.0-win-32bit-build1"
         }
     },
     "bin": "aria2c.exe",
